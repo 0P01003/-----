@@ -5,6 +5,7 @@ import re
 
 
 st.title("お小遣い２００円もらった！！")
+st.text("お菓子が気に入らなかったらページを更新してね")
 
 image = Image.open('スクリーンショット 2024-05-22 11.07.15.png')
 st.image(image, width=200)
